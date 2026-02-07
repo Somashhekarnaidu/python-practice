@@ -1,2 +1,3 @@
-# python-practice
-Daily Python practice programs for learning and career growth
+# Python Practice
+
+This repository contains my daily Python practice programs.
